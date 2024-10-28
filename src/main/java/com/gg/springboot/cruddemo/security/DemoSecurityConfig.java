@@ -1,4 +1,4 @@
-package com.luv2code.springboot.cruddemo.security;
+package com.gg.springboot.cruddemo.security;
 
 
 import org.springframework.context.annotation.Bean;
